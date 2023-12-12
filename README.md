@@ -2,9 +2,8 @@
 # Título del Sitio Web
 
 ## Autores
-- Usuario1 ([Propietario](https://github.com/usuario1/repo))
-- Usuario2 ([Colaborador](https://github.com/usuario2/repo))
-- Usuario3 ([Colaborador](https://github.com/usuario3/repo))
+- Hugo ([Propietario](https://github.com//repo))
+- Cristian ([Colaborador](https://github.com/cristian1502/Actividad-2.git))
 
 ## Temática del Sitio Web
 El sitio web se enfoca en [describir la temática del sitio, por ejemplo: una plataforma de e-commerce para la venta de libros].
