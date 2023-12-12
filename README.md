@@ -20,14 +20,12 @@ El sitio se va a estructurar de la siguiente manera:
 - Utilización del tema de Jekyll : [Jekyll-klisse](https://dainty-eclair-846930.netlify.app/).
 
 ## Planificación del Sitio Web
-- Usuario1:
+- vNoxpe:
   - Configuración inicial del repositorio.
   - Definición de la estructura de carpetas y archivos.
   - Implementación del diseño inicial.
-- Usuario2:
+- Cristian:
   - Desarrollo de la funcionalidad principal del sitio.
-  - Optimización del rendimiento y la velocidad.
-- Usuario3:
   - Creación de contenido y redacción.
   - Revisión de diseño y usabilidad.
 
