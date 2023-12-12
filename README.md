@@ -3,7 +3,7 @@
 
 ## Autores
 - Hugo ([Propietario](https://vnoxpe.github.io/iaw/))
-- Cristian ([Colaborador](https://github.com/cristian1502/Actividad-2.git))
+- Cristian ([Colaborador](https://cristian1203.github.io/iaw/))
 
 ## Temática del Sitio Web
 El sitio web se enfoca en informar a los usuarios de los ultimos movimientos del mercado a nivel global relacionado con el futbol.
