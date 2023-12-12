@@ -17,7 +17,7 @@ El sitio se va a estructurar de la siguiente manera:
 - Carpeta 'docs': Para la documentación del proyecto.
 - Carpeta 'includes': Para almacenar fragmentos de código reutilizables.
 - Archivo 'config.yml': Configuración del sitio.
-- Utilización del tema de Jekyll: [Nombre del tema](https://dainty-eclair-846930.netlify.app/).
+- Utilización del tema de Jekyll : [Jekyll-klisse](https://dainty-eclair-846930.netlify.app/).
 
 ## Planificación del Sitio Web
 - Usuario1:
@@ -30,6 +30,4 @@ El sitio se va a estructurar de la siguiente manera:
 - Usuario3:
   - Creación de contenido y redacción.
   - Revisión de diseño y usabilidad.
-```
 
-Recuerda que este es solo un ejemplo de cómo podrías estructurar el archivo README.md para tu repositorio en GitHub. Asegúrate de personalizarlo según las necesidades y características específicas de tu proyecto.
