@@ -6,10 +6,10 @@
 - Cristian ([Colaborador](https://github.com/cristian1502/Actividad-2.git))
 
 ## Temática del Sitio Web
-El sitio web se enfoca en [describir la temática del sitio, por ejemplo: una plataforma de e-commerce para la venta de libros].
+El sitio web se enfoca en informar a los usuarios de los ultimos movimientos del mercado a nivel global relacionado con el futbol.
 
 ## Descripción del Sitio Web
-[Una breve descripción del propósito y objetivo del sitio, así como su audiencia objetivo y características principales.]
+El propósito del sitio web es brindar información actualizada sobre transferencias, rumores y estadísticas relevantes en  el fútbol. Su objetivo es mantener a los aficionados al tanto de los movimientos de jugadores entre equipos, a nivel nacional e internacional, incluyendo contratos, rumores, lesiones y declaraciones relevantes. Su audiencia objetivo son fanáticos apasionados por el deporte y profesionales de la industria, ofreciendo noticias en tiempo real, análisis expertos, perfiles de jugadores y equipos, interacción comunitaria, alertas personalizadas, calendarios de eventos y contenido multimedia, procurando ser una fuente confiable y completa de información deportiva.
 
 ## Estructura y Diseño del Sitio Web (Esbozo)
 El sitio se va a estructurar de la siguiente manera:
