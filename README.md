@@ -1,8 +1,8 @@
 
-# Título del Sitio Web
+# El Mercato de Fichajes
 
 ## Autores
-- Hugo ([Propietario](https://github.com//repo))
+- Hugo ([Propietario](https://vnoxpe.github.io/iaw/))
 - Cristian ([Colaborador](https://github.com/cristian1502/Actividad-2.git))
 
 ## Temática del Sitio Web
