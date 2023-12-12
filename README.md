@@ -17,7 +17,7 @@ El sitio se va a estructurar de la siguiente manera:
 - Carpeta 'docs': Para la documentación del proyecto.
 - Carpeta 'includes': Para almacenar fragmentos de código reutilizables.
 - Archivo 'config.yml': Configuración del sitio.
-- Utilización del tema de Jekyll: [Nombre del tema](https://github.com/usuario/tema-jekyll).
+- Utilización del tema de Jekyll: [Nombre del tema](https://dainty-eclair-846930.netlify.app/).
 
 ## Planificación del Sitio Web
 - Usuario1:
